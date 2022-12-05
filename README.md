@@ -7,7 +7,7 @@
 # Luiz Felipe C. Vaccaro
 <sub>*Data Sciente Voltada Para Marketing Digital Center</sub>
 
-Estudante de Data Science e Marketing Digital, a cada dia temos uma maior quantidade de dados armazenados nos banco de dados e cada vez mais é necessária uma melhor utilização e visualização destes dados. Para desta forma entregar a melhor experiência para o cliente digital. 
+Estudante de Data Science e Marketing Digital, a cada dia temos uma maior quantidade de dados armazenados nos banco de dados e cada vez mais é necessária uma melhor utilização e visualização destas informações. Para desta forma entregar a melhor experiência para o cliente digital. 
 
 Por trabalhar alguns anos em negócios próprios adquiri expertises nas áreas da finanças(controle e análise), vendas e comunicação, marketing digital, desenvolvimento de processos e experiência do cliente (ánalise de cliente, atendimento, pós vendas e relacionamento). 
 
