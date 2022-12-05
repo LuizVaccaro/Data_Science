@@ -15,9 +15,9 @@ Formação é em auto de data, minha juventude nunca foi voltada aos estudos, ma
 
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
+* [Blog]
 * [LinkedIn](https://www.linkedin.com/in/luiz-felipe-cougo-vaccaro-9b5790184/)
-* [Medium](https://www.medium.com)
+* [Medium]([https://www.medium.com](https://medium.com/@vaccaroluiz))
 
 
 ## Projetos:
