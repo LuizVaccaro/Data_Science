@@ -23,7 +23,7 @@ Formação é em auto de data, minha juventude nunca foi voltada aos estudos, ma
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise dos dados do Airbnb para as ilhas do Hawaii:** http://bit.ly/3hnMOGT
 
 ---
 
